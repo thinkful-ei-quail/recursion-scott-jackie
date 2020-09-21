@@ -42,3 +42,11 @@
 // console.log(reverseStr('hello'))
 
 // question 4 
+// function triangles(n) {
+//     if(n === 1) {
+//         return n
+//     }
+//     return n + triangles(n - 1)
+// }
+// console.log(triangles(9))
+
